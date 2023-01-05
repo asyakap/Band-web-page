@@ -11,3 +11,21 @@
   float: right;
   background-color: bisque;
 }
+
+.box {
+  width: 100px;
+  border: solid black;
+  border-width: 1px;
+  padding: 5px;
+  background-color: orange;
+  margin-bottom: 10px;
+}
+
+.box1 {
+  width: 900px;
+  border: solid black;
+  padding-top: 50px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+  padding-left: 50px;;
+}
